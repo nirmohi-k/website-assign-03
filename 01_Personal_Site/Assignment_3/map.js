@@ -56,7 +56,7 @@ document.addEventListener("DOMContentLoaded", function () {
             'type': 'fill',
             'source': {
                 'type': 'geojson',
-                'data': 'data/https://drive.google.com/file/d/1YFpBwMUOpn0b8-gFaTVRWtvU0oMekmxj/view?usp=sharing'
+                'data': 'https://drive.google.com/file/d/1YFpBwMUOpn0b8-gFaTVRWtvU0oMekmxj/view?usp=sharing'
             },
             'paint': {
                 'fill-color': '#b3cf99',
